@@ -9,9 +9,6 @@ I am pretty active I just usually contribute on private gits
 ## current projects
 
 Currently I'm working on:
-
--A trading bot (unfinished)
-
--A blooket hack (patched)
-
--Some random discord bots (basically finished)
+- A trading bot (unfinished)
+- A blooket hack (patched)
+- Some random discord bots (basically finished)
