@@ -6,10 +6,6 @@ I have a discord server if you want to contact me https://discord.gg/uv6f65v
 
 I am pretty active I just usually contribute on private gits
 
-##general statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semajcju)](https://github.com/anuraghazra/github-readme-stats)
-
 ## current projects
 
 Currently I'm working on:
