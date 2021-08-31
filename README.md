@@ -11,3 +11,8 @@ I am pretty active I just usually contribute on private gits
 Currently I'm working on:
 - A blooket hack (patched)
 - Some random discord bots (basically finished)
+
+## fancy stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semajcju&show_icons=true&theme=tokyonight)
+
